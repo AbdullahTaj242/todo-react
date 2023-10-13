@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+td{
+    background-color: rgb(165, 165, 232);
+    color: white;
+    border: 2px solid black;
+  
+}
+td:hover{
+    color: red;
+}
+
+
